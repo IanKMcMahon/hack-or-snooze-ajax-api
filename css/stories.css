@@ -7,7 +7,11 @@
 .stories-list > li {
   color: gray;
   font-size: 0.8rem;
-  margin: 10px 0;
+  margin: 20px 0;
+}
+
+a {
+  font-weight: 400;
 }
 
 #stories-loading-msg {
